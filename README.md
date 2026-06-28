@@ -22,6 +22,13 @@ Unity Game Developer focused on gameplay programming, system design, and buildin
 - Blender
 - Photoshop
 
+## Interests
+
+- Strategy and system-based games
+- Indie game development
+- Gameplay mechanics design
+- Playing guitar
+
 ## Featured Projects
 
 - [Defence Against Pests](https://github.com/arshiaahmadian-coder/Defense-against-pests) – 3D farm defense game with resource management and building mechanics
