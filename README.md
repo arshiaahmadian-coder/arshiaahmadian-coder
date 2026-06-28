@@ -33,7 +33,7 @@ Unity Game Developer focused on gameplay programming, system design, and buildin
 
 - [Defence Against Pests](https://github.com/arshiaahmadian-coder/Defense-against-pests) – 3D farm defense game with resource management and building mechanics
 - [Bennie Boom Dash](https://github.com/arshiaahmadian-coder/BennieBoomDash) – Fast-paced 2D reflex-based mobile game
-- [Zombie Killer](https://github.com/arshiaahmadian-coder/ZombieKiller) – Wave-based survival shooter with weapon upgrades
+- [Zombie Killer](https://github.com/arshiaahmadian-coder/ZombieKiller) – 3D Wave-based survival shooter with weapon upgrades
 - [Space Shooter](https://github.com/arshiaahmadian-coder/spaceShooter) – Arcade-style space combat game
 
 ## Contact
