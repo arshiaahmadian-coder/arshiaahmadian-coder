@@ -12,6 +12,7 @@ Unity Game Developer focused on gameplay programming, system design, and buildin
 - Game Design
 - AI Systems
 - UI Systems
+- Game Optimization
 
 ### Platforms
 - Mobile Games
@@ -21,6 +22,7 @@ Unity Game Developer focused on gameplay programming, system design, and buildin
 - Git
 - Blender
 - Photoshop
+- Unity
 
 ## Interests
 
@@ -28,11 +30,13 @@ Unity Game Developer focused on gameplay programming, system design, and buildin
 - Indie game development
 - Gameplay mechanics design
 - Playing guitar
+- Learning Hard Things
 
 ## Featured Projects
 
 - [Defence Against Pests](https://github.com/arshiaahmadian-coder/Defense-against-pests) – 3D farm defense game with resource management and building mechanics
 - [Bennie Boom Dash](https://github.com/arshiaahmadian-coder/BennieBoomDash) – Fast-paced 2D reflex-based mobile game
+- [Desert Surfers](https://github.com/arshiaahmadian-coder/SubwaySurface) – 3D endless runner inspired by Subway Surfers
 - [Zombie Killer](https://github.com/arshiaahmadian-coder/ZombieKiller) – 3D Wave-based survival shooter with weapon upgrades
 - [Space Shooter](https://github.com/arshiaahmadian-coder/spaceShooter) – Arcade-style space combat game
 
